@@ -1,3 +1,5 @@
+/// Insert a node at the beginning of the list.
+
 #include <iostream>
 using namespace std;
 
